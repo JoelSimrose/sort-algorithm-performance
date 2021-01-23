@@ -1,4 +1,4 @@
-# Sorting Algorithms Performance
+# Sorting Algorithm Performance
 
 ## Table of contents
 
